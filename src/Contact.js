@@ -14,7 +14,7 @@ const Contact = () => {
 						</address>
 					</div>
 					<div class="col-lg-6 col-md-6 col-xs-10 " >
-						<form role="form" method="post" action="#">
+						<form role="form" method="POST" action="https://formspree.io/f/xzbknjpd">
 							<input name="name" type="text" class="form-control" id="name" placeholder="Your Name"/>
 							<input name="email" type="email" class="form-control" id="email" placeholder="Your Email"/>
 							<textarea name="message" rows="5" class="form-control" id="message" placeholder="Your Message"></textarea>

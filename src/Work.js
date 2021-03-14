@@ -16,7 +16,7 @@ const Work = () => {
 					<div class="col-md-4 col-xs-11 " >
 						<div class="media">
 							<div class="media-object media-left">
-								<i class="fa fa-laptop"></i>
+								<i class="fa fa-book"></i>
 							</div>
 							<div class="media-body">
 								<h3 class="media-heading">Abia state university(2018 - present)</h3>
@@ -39,7 +39,7 @@ const Work = () => {
 					<div class="col-md-4 col-xs-11 " >
 						<div class="media">
 							<div class="media-object media-left">
-								<i class="fa fa-laptop"></i>
+								<i class="fa fa-play"></i>
 							</div>
 							<div class="media-body">
 								<h3 class="media-heading">Hobbies</h3>
